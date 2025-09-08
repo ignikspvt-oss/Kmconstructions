@@ -240,8 +240,8 @@ const About: React.FC = () => {
 
           <div className="grid md:grid-cols-2 gap-8 max-w-2xl mx-auto">
             {[
-              { name: 'Kolagani Asrith Patel', role: 'Project Management', image: '/images/patel.jpeg' },
-              { name: 'Kolagani Aryan Patel', role: 'Project Management', image: '/images/bro_patel.jpeg' }
+              { name: 'Kolagani Asrith Patel', role: 'Project Management', image: 'https://github.com/ignikspvt-oss/Kmconstructions/blob/main/project/Images/patel.jpeg?raw=true' },
+              { name: 'Kolagani Aryan Patel', role: 'Project Management', image: 'https://github.com/ignikspvt-oss/Kmconstructions/blob/main/project/Images/bro_patel.jpeg?raw=true' }
             ].map((member, index) => (
               <div key={index} className="bg-white p-6 rounded-2xl shadow-lg hover:shadow-xl transition-all duration-300 text-center">
                 <div className="w-32 h-32 rounded-full overflow-hidden border-4 border-orange-400 shadow-lg mx-auto mb-4">
