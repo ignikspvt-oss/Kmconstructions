@@ -179,7 +179,7 @@ const About: React.FC = () => {
               <div className="relative inline-block">
                 <div className="w-80 h-80 rounded-full overflow-hidden border-8 border-blue-600 shadow-2xl mx-auto mb-6">
                   <img 
-                    src="/images/Dad_patel.jpeg" 
+                    src="https://github.com/ignikspvt-oss/Kmconstructions/blob/main/project/Images/Dad_patel.jpeg?raw=true" 
                     alt="Kolagani Madhusudhan Patel - Managing Director" 
                     className="w-full h-full object-cover"
                   />
